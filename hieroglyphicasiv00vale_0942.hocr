@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hieroglyphicasiv00vale_0942.png"; bbox 0 0 2310 3643; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 675 1116 1587 2381">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 675 1116 1587 2381">
+     <span class='ocr_line' id='line_1_1' title="bbox 675 1116 1587 2381"><span class='ocrx_word' id='word_1_1' title='bbox 675 1116 1587 2381; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2282 2395 2310 2898">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2282 2395 2310 2898">
+     <span class='ocr_line' id='line_1_2' title="bbox 2282 2395 2310 2898; baseline 251.5 -1509"><span class='ocrx_word' id='word_1_2' title='bbox 2304 2395 2310 2407; x_wconf 83' lang='lat'>..</span> <span class='ocrx_word' id='word_1_3' title='bbox 2303 2448 2306 2458; x_wconf 80' lang='grc'>,.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2298 2467 2310 2533; x_wconf 62' lang='lat' dir='ltr'>ix</span> <span class='ocrx_word' id='word_1_5' title='bbox 2282 2546 2310 2898; x_wconf 46' lang='lat' dir='ltr'>u.,.,}.5,.3.2..9.4„fufl12÷</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2281 2931 2306 3358">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2281 2931 2306 3358">
+     <span class='ocr_line' id='line_1_3' title="bbox 2281 2931 2306 3358; baseline -427 2135"><span class='ocrx_word' id='word_1_6' title='bbox 2287 2931 2297 2949; x_wconf 59' lang='grc'>.,</span> <span class='ocrx_word' id='word_1_7' title='bbox 2286 2979 2294 3002; x_wconf 72' lang='grc'>,.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2282 3044 2306 3262; x_wconf 49' lang='grc' dir='ltr'>,Ἄνιιξιιμίκ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2281 3322 2290 3358; x_wconf 74' lang='grc' dir='ltr'>,ι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
